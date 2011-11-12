@@ -1,0 +1,7 @@
+Cab_or_not is a learning project written by me.
+
+It makes use of the Google Distance Matrix API
+(http://code.google.com/apis/maps/documentation/distancematrix/)
+in order to find the distance and driving time between 2 points.
+
+Based on your salary, it calculates the value of your time and evaluates whether the cost of taking a taxi to your destination exceeds the worth of your time, upon which it will recommend the bus, or if your time is worth more than the taxi ride, it will recommend taking the taxi.
